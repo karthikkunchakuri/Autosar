@@ -6,3 +6,4 @@ main branch upadte
 09112024: greetings from autosar
 Hello autosar1
 hello autosar2
+Today's task is to create application module
